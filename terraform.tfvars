@@ -7,4 +7,8 @@ rgnames = {
         name = "myrg2"
         location = "westus"
     }
+     rg3 = {
+        name = "myrg3"
+        location = "westus"
+    }
 }
